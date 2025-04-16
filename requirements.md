@@ -1,5 +1,3 @@
-## <remove all of the example text and notes in < > such as this one>
-
 ## Functional Requirements
 
 1. User Registration – The system shall allow users to register by providing a username, email, and password.
@@ -18,14 +16,11 @@
 14. View All Recipes – The system shall allow users to view a list of all publicly available recipes.
 15. Filter Recipes – The system shall allow users to filter recipes by tags such as 'vegan', 'dessert', etc.
 
-<using the syntax [](images/ui1.png) add images in a folder called images/ and place sketches of your webpages>
-
 ## Non-functional Requirements
 1. The system shall load recipe pages in under 2 seconds
 2. The system should support more than 100 users without performance issues
 
-<each of the 14 requirements will have a use case associated with it>
-## Use Cases <Add name of who will write (this specific requirement) and implement (in subsequent milestones) the use case below>
+## Use Cases
 
 1. User Registration (Written and will be implemented by Eric)
 - **Pre-condition:** Visitor is not logged in and has a valid email address.
